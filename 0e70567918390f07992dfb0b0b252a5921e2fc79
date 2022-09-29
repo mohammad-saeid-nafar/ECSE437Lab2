@@ -16,6 +16,23 @@
       "message": "Hi Alexandre, can you please review my code?",
       "revId": "0e70567918390f07992dfb0b0b252a5921e2fc79",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d0df2ca4_4cb85cb2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020559
+      },
+      "writtenOn": "2022-09-29T19:54:50Z",
+      "side": 1,
+      "message": "Please review my code",
+      "revId": "0e70567918390f07992dfb0b0b252a5921e2fc79",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
