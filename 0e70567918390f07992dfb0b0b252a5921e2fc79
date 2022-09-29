@@ -33,6 +33,23 @@
       "message": "Please review my code",
       "revId": "0e70567918390f07992dfb0b0b252a5921e2fc79",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cd08ecb4_e4e1188a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020559
+      },
+      "writtenOn": "2022-09-29T19:58:48Z",
+      "side": 1,
+      "message": "Hi",
+      "revId": "0e70567918390f07992dfb0b0b252a5921e2fc79",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
