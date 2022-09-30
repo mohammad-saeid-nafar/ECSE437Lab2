@@ -85,6 +85,23 @@
       "message": "hi alex",
       "revId": "0e70567918390f07992dfb0b0b252a5921e2fc79",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e7c00e66_a24ee2d3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020559
+      },
+      "writtenOn": "2022-09-30T16:39:54Z",
+      "side": 1,
+      "message": "Hi Alex, code review please?",
+      "revId": "0e70567918390f07992dfb0b0b252a5921e2fc79",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
